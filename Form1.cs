@@ -15,7 +15,7 @@ namespace LoginForm
 {
     public partial class Form1 : Form
     {
-        string connect_string = "Data Source=34.176.57.189;Initial Catalog=OOP;Persist Security Info=True;User ID=sqlserver;Password=Lak@2302;";
+        string connect_string = "Data Source=34.176.57.189;Initial Catalog=OOP;Persist Security Info=True;User ID=sqlserver;Password=############;";
         Encrypt encr = new Encrypt();
         public Form1()
         {
